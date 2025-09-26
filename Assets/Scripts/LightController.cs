@@ -18,7 +18,7 @@ public class LightController : MonoBehaviour
     private bool fillLightBool = true;
     private bool backLightBool = true;
 
-    // Start is called before the first frame update//
+    // Start is called before the first frame update
     void Start()
     {
         GameObject KeyLightImageObj = GameObject.Find("KeyLightImage");
